@@ -2,7 +2,7 @@
 - 👀 I’m interested in bots
 - 🌱 I’m currently learning pyhton
 - 💞️ I’m looking to collaborate on, my discord bot
-- 📫 How to reach me @kizu_3 on discord
+- 📫 How to reach me @mki0987. on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like coding
 
